@@ -1,0 +1,9 @@
+{
+  "name": "RainbowPower",
+  "description": "some apps for rainbowpower",
+  "repository": "https://github.com/rainbowpower-e/rainbowpower-e.github.io.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["rainbow", "marriage", "equality"],
+  "image": "heroku/nodejs"
+}
+
